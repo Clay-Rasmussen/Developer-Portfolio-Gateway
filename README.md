@@ -22,7 +22,7 @@ serves as central directory for navigating my coursework.
 
 ---
 
-## CALC2000 - done
+## CALC2000
 
 ### 📌 Summary
 A COBOL batch program that calculates future investment values and demonstrates 
@@ -56,7 +56,7 @@ repeated value doubling through structured processing.
 🔙 [Back to TOC](#-table-of-contents)
 ---
 
-## UTIL2000 - done
+## UTIL2000
 
 ### 📌 Summary
 A COBOL utility billing system that calculates and generates monthly bills for multiple customers based on their kilowatt-hour (kWh) usage.
@@ -91,7 +91,7 @@ A COBOL utility billing system that calculates and generates monthly bills for m
 🔙 [Back to TOC](#-table-of-contents)
 ---
 
-## RPT2000 - done
+## RPT2000
 
 ### 📌 Summary
 An intermediate COBOL reporting program that processes customer financial records and generates a formatted Year-To-Date (YTD) Sales Report. This version introduces comparative analytics by calculating differences between current and previous year sales.
@@ -127,7 +127,7 @@ An intermediate COBOL reporting program that processes customer financial record
 🔙 [Back to TOC](#-table-of-contents)
 ---
 
-## RPT3000 - done
+## RPT3000
 
 ### 📌 Summary
 An advanced COBOL reporting tool that processes customer financial records from a master file and generates a formatted multi-page Year-To-Date (YTD) Sales Report. The program includes automated branch break processing, customer-level calculations, and professional report pagination.
@@ -166,7 +166,7 @@ An advanced COBOL reporting tool that processes customer financial records from 
 🔙 [Back to TOC](#-table-of-contents)
 ---
 
-## RPT5000 - done
+## RPT5000
 
 ### 📌 Summary
 An advanced COBOL reporting system that processes customer sales data and generates a multi-level, formatted Year-To-Date (YTD) Sales Report. This version introduces two-level control break processing, enhanced decision logic using EVALUATE, and professional report pagination.
@@ -204,7 +204,7 @@ An advanced COBOL reporting system that processes customer sales data and genera
 🔙 [Back to TOC](#-table-of-contents)
 ---
 
-## RPT6000 - done
+## RPT6000
 
 ### 📌 Summary
 An advanced COBOL program focused on data formatting, table processing, and modular design. This project integrates file-driven tables, indexed lookups, and reusable copybooks to enhance flexibility, scalability, and report accuracy.
@@ -242,7 +242,7 @@ An advanced COBOL program focused on data formatting, table processing, and modu
 🔙 [Back to TOC](#-table-of-contents)
 ---
 
-## SEQ3000 - done
+## SEQ3000
 
 ### 📌 Summary
 A COBOL file maintenance program that processes employee master records alongside a transaction file to perform additions, deletions, and updates. The program uses a balanced-line algorithm to ensure accurate record comparison and generates both an updated master file and an error report.
