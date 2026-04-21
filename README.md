@@ -48,7 +48,7 @@ repeated value doubling through structured processing.
 ✅ Completed
 
 ### 📷 Preview
-![RPT1000 Output](assets/rpt1000.png)
+![CALC2000 Output](assets/CALC2000.png)
 
 ### 🔗 Repository
 [CALC2000](https://github.com/Clay-Rasmussen/COBOLCALC2000)
@@ -83,7 +83,7 @@ A COBOL utility billing system that calculates and generates monthly bills for m
 ✅ Completed
 
 ### 📷 Preview
-![RPT1000 Output](assets/rpt1000.png)
+![UTIL2000 Output](assets/UTIL2000.png)
 
 ### 🔗 Repository
 [UTIL2000](https://github.com/Clay-Rasmussen/CobolUtil2000)
@@ -119,7 +119,7 @@ An intermediate COBOL reporting program that processes customer financial record
 ✅ Completed
 
 ### 📷 Preview
-![RPT1000 Output](assets/rpt1000.png)
+![RPT2000 Output](assets/RPT1000.png)
 
 ### 🔗 Repository
 [RPT2000](https://github.com/TJoubert004/CobolAssignment3)
@@ -158,10 +158,10 @@ An advanced COBOL reporting tool that processes customer financial records from 
 ✅ Completed
 
 ### 📷 Preview
-![RPT1000 Output](assets/rpt1000.png)
+![RPT3000 Output](assets/RPT3000.png)
 
 ### 🔗 Repository
-[RPT2000](https://github.com/TJoubert004/CobolAssignment3)
+[RPT3000](https://github.com/TJoubert004/CobolAssignment3)
 
 🔙 [Back to TOC](#-table-of-contents)
 ---
@@ -196,7 +196,7 @@ An advanced COBOL reporting system that processes customer sales data and genera
 ✅ Completed
 
 ### 📷 Preview
-![RPT1000 Output](assets/rpt1000.png)
+![RPT5000 Output](assets/RPT5000.png)
 
 ### 🔗 Repository
 [RPT5000](https://github.com/KirbyD-YEAH/RPT5000)
@@ -234,7 +234,7 @@ An advanced COBOL program focused on data formatting, table processing, and modu
 ✅ Completed
 
 ### 📷 Preview
-![RPT1000 Output](assets/rpt1000.png)
+![RPT6000 Output](assets/RPT6000.png)
 
 ### 🔗 Repository
 [RPT6000](https://github.com/Clay-Rasmussen/RPT6000)
@@ -271,7 +271,7 @@ A COBOL file maintenance program that processes employee master records alongsid
 ✅ Completed
 
 ### 📷 Preview
-![RPT1000 Output](assets/rpt1000.png)
+![SEQ3000 Output](assets/SEQ3000.png)
 
 ### 🔗 Repository
 [SEQ3000](https://github.com/Clay-Rasmussen/SEQ3000)
@@ -305,7 +305,7 @@ A Java application that displays real-time weather station data, including tempe
 ✅ Completed
 
 ### 📷 Preview
-![RPT1000 Output](assets/rpt1000.png)
+![WeatherStation Output](assets/WeatherStation.png)
 
 ### 🔗 Repository
 [Weather Station](https://github.com/Clay-Rasmussen/Semester2JavaFinal)
@@ -342,7 +342,7 @@ A C++ console-based math tutor application that generates random arithmetic prob
 ✅ Completed
 
 ### 📷 Preview
-![RPT1000 Output](assets/rpt1000.png)
+![MathTutorV6 Output](assets/MathTutorV6.png)
 
 ### 🔗 Repository
 [MathTutorV6](https://github.com/Clay-Rasmussen/MathTutorV6)
