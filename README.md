@@ -1,10 +1,24 @@
-# Developer-Portfolio-Gateway
-**Author:** Clay Rasmussen 
+# Developer Portfolio Gateway
+**Author:** Clay Rasmussen  
 **Course:** CIS352 – Intro to Enterprise Computing  
-**Intro:** Welcome to my GitHub portfolio repository! I am currently
-studying Computer Information Systems at Wayne State College. This repository 
-serves as central directory for navigating my coursework.
 ---
+
+## 👋 About Me
+Welcome to my GitHub portfolio repository!  
+I am currently studying **Computer Information Systems** at Wayne State College.  
+This repository serves as a central directory for navigating my coursework and projects.
+---
+
+## 📸 Profile
+<p align="center">
+  <img src="https://github.com/Clay-Rasmussen.png" alt="Profile Picture" width="150" style="border-radius: 50%;" />
+</p>
+<h3 align="center">Clay Rasmussen</h3>
+<p align="center">
+  <a href="https://github.com/Clay-Rasmussen">GitHub</a> •
+  <a href="mailto:clrasm02@wsc.edu">Email</a> •
+  <a href="https://www.linkedin.com/in/clayrasmussen/">LinkedIn</a>
+</p>
 
 ## 📚 Table of Contents
 
