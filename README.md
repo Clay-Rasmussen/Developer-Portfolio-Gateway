@@ -119,7 +119,7 @@ An intermediate COBOL reporting program that processes customer financial record
 ✅ Completed
 
 ### 📷 Preview
-![RPT2000 Output](assets/RPT1000.png)
+![RPT2000 Output](assets/RPT2000.png)
 
 ### 🔗 Repository
 [RPT2000](https://github.com/TJoubert004/CobolAssignment3)
