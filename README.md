@@ -304,9 +304,6 @@ A Java application that displays real-time weather station data, including tempe
 ### 🚦 Status
 ✅ Completed
 
-### 📷 Preview
-![WeatherStation Output](assets/WeatherStation.png)
-
 ### 🔗 Repository
 [Weather Station](https://github.com/Clay-Rasmussen/Semester2JavaFinal)
 
@@ -340,9 +337,6 @@ A C++ console-based math tutor application that generates random arithmetic prob
 
 ### 🚦 Status
 ✅ Completed
-
-### 📷 Preview
-![MathTutorV6 Output](assets/MathTutorV6.png)
 
 ### 🔗 Repository
 [MathTutorV6](https://github.com/Clay-Rasmussen/MathTutorV6)
