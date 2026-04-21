@@ -11,7 +11,7 @@ This repository serves as a central directory for navigating my coursework and p
 
 ## 📸 Profile
 <p align="center">
-  <img src="https://github.com/Clay-Rasmussen.png" alt="Profile Picture" width="150" style="border-radius: 50%;" />
+  <img src="https://github.com/Clay-Rasmussen.png" alt="Profile Picture" width="150"/>
 </p>
 <h3 align="center">Clay Rasmussen</h3>
 <p align="center">
