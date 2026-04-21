@@ -122,7 +122,7 @@ An intermediate COBOL reporting program that processes customer financial record
 ![RPT2000 Output](assets/RPT2000.png)
 
 ### 🔗 Repository
-[RPT2000](https://github.com/TJoubert004/CobolAssignment3)
+[RPT2000](https://github.com/Clay-Rasmussen/RPT2000)
 
 🔙 [Back to TOC](#-table-of-contents)
 ---
@@ -161,7 +161,7 @@ An advanced COBOL reporting tool that processes customer financial records from 
 ![RPT3000 Output](assets/RPT3000.png)
 
 ### 🔗 Repository
-[RPT3000](https://github.com/TJoubert004/CobolAssignment3)
+[RPT3000](https://github.com/Clay-Rasmussen/RPT3000)
 
 🔙 [Back to TOC](#-table-of-contents)
 ---
@@ -199,7 +199,7 @@ An advanced COBOL reporting system that processes customer sales data and genera
 ![RPT5000 Output](assets/RPT5000.png)
 
 ### 🔗 Repository
-[RPT5000](https://github.com/KirbyD-YEAH/RPT5000)
+[RPT5000](https://github.com/Clay-Rasmussen/RPT5000)
 
 🔙 [Back to TOC](#-table-of-contents)
 ---
