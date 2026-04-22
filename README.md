@@ -1,11 +1,11 @@
 # Developer Portfolio Gateway
-**Author:** Clay Rasmussen  
-**Course:** CIS352 – Intro to Enterprise Computing  
+Author: Clay Rasmussen  
+Course: CIS352 – Intro to Enterprise Computing  
 ---
 
 ## 👋 About Me
 Welcome to my GitHub portfolio repository!  
-I am currently studying **Computer Information Systems** at Wayne State College.  
+I am currently studying Computer Information Systems at Wayne State College.  
 This repository serves as a central directory for navigating my coursework and projects.
 ---
 
@@ -43,9 +43,9 @@ A COBOL batch program that calculates future investment values and demonstrates
 repeated value doubling through structured processing.
 
 ### 🧰 Tech Stack
-* ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
-* ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-* ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
+![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ### 🧠 Key Concepts
 - Arithmetic operations in COBOL
@@ -76,9 +76,9 @@ repeated value doubling through structured processing.
 A COBOL utility billing system that calculates and generates monthly bills for multiple customers based on their kilowatt-hour (kWh) usage.
 
 ### 🧰 Tech Stack
-* ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
-* ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-* ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
+![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ### 🧠 Key Concepts
 - Sequential file processing
@@ -111,9 +111,9 @@ A COBOL utility billing system that calculates and generates monthly bills for m
 An intermediate COBOL reporting program that processes customer financial records and generates a formatted Year-To-Date (YTD) Sales Report. This version introduces comparative analytics by calculating differences between current and previous year sales.
 
 ### 🧰 Tech Stack
-* ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
-* ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-* ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
+![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ### 🧠 Key Concepts
 - Sequential file processing
@@ -147,9 +147,9 @@ An intermediate COBOL reporting program that processes customer financial record
 An advanced COBOL reporting tool that processes customer financial records from a master file and generates a formatted multi-page Year-To-Date (YTD) Sales Report. The program includes automated branch break processing, customer-level calculations, and professional report pagination.
 
 ### 🧰 Tech Stack
-* ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
-* ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-* ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
+![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ### 🧠 Key Concepts
 - Sequential file processing
@@ -186,9 +186,9 @@ An advanced COBOL reporting tool that processes customer financial records from 
 An advanced COBOL reporting system that processes customer sales data and generates a multi-level, formatted Year-To-Date (YTD) Sales Report. This version introduces two-level control break processing, enhanced decision logic using EVALUATE, and professional report pagination.
 
 ### 🧰 Tech Stack
-* ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
-* ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-* ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
+![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ### 🧠 Key Concepts
 - Two-level control break processing (branch & sales representative)
@@ -224,9 +224,9 @@ An advanced COBOL reporting system that processes customer sales data and genera
 An advanced COBOL program focused on data formatting, table processing, and modular design. This project integrates file-driven tables, indexed lookups, and reusable copybooks to enhance flexibility, scalability, and report accuracy.
 
 ### 🧰 Tech Stack
-* ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
-* ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-* ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
+![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ### 🧠 Key Concepts
 - REDEFINES and edited picture clauses for formatted output
@@ -262,9 +262,9 @@ An advanced COBOL program focused on data formatting, table processing, and modu
 A COBOL file maintenance program that processes employee master records alongside a transaction file to perform additions, deletions, and updates. The program uses a balanced-line algorithm to ensure accurate record comparison and generates both an updated master file and an error report.
 
 ### 🧰 Tech Stack
-* ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
-* ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-* ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
+![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ### 🧠 Key Concepts
 - Sequential file processing
@@ -299,10 +299,10 @@ A COBOL file maintenance program that processes employee master records alongsid
 A Java application that displays real-time weather station data, including temperature, humidity, and wind speed. This project demonstrates object-oriented programming concepts and UI/data handling using instructor-provided starter code.
 
 ### 🧰 Tech Stack
-* ![Amazon Corretto](https://img.shields.io/badge/Amazon_Corretto-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)
-* ![Java Version](https://img.shields.io/badge/Java-17-blue)
-* ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-* ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
+![Amazon Corretto](https://img.shields.io/badge/Amazon_Corretto-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Java Version](https://img.shields.io/badge/Java-17-blue)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ### 🧠 Key Concepts
 - Object-oriented programming (classes and objects)
@@ -330,9 +330,9 @@ A Java application that displays real-time weather station data, including tempe
 A C++ console-based math tutor application that generates random arithmetic problems and adjusts difficulty based on user performance. The program tracks attempts, provides feedback, and summarizes results to enhance learning.
 
 ### 🧰 Tech Stack
-* ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-* ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-* ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ### 🧠 Key Concepts
 - Random number generation
