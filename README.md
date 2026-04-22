@@ -47,22 +47,18 @@ repeated value doubling through structured processing.
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
-### 🧠 Key Concepts
+### 🧠 Key Concepts & Features
 - Arithmetic operations in COBOL
-- Sequential execution of calculations
-- Data handling in the Data Division
+- `Data handling` in the `Data Division`
 - Output formatting for financial results
-
-### ⚙️ Features
-- Calculates future value of an investment
-- Demonstrates repeated doubling of values
-- Outputs formatted results to the console
+- Calculates `future value` of an investment
+- Demonstrates `repeated doubling` of values
 
 ### 🚦 Status
 ✅ Completed
 
 ### 📷 Preview
-![CALC2000 Output](assets/CALC2000.png)
+  <img src="assets/CALC2000.png" width="150"/>
 
 ### 🔗 Repository
 [CALC2000](https://github.com/Clay-Rasmussen/COBOLCALC2000)
@@ -80,24 +76,18 @@ A COBOL utility billing system that calculates and generates monthly bills for m
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
-### 🧠 Key Concepts
-- Sequential file processing
+### 🧠 Key Concepts & Features
 - Arithmetic calculations for billing
-- Conditional logic for rate calculations
-- Data formatting for customer output
-- Handling multiple customer records
-
-### ⚙️ Features
-- Processes customer electricity usage data
-- Calculates monthly billing based on kWh consumption
-- Generates formatted billing output
-- Handles multiple customer records in a single run
+- `Conditional` logic for rate calculations
+- Calculates monthly billing based on `kWh consumption`
+- Generates `formatted` billing output
+- Handles `multiple customer records` in a single run
 
 ### 🚦 Status
 ✅ Completed
 
 ### 📷 Preview
-![UTIL2000 Output](assets/UTIL2000.png)
+  <img src="assets/UTIL2000.png" width="150"/>
 
 ### 🔗 Repository
 [UTIL2000](https://github.com/Clay-Rasmussen/CobolUtil2000)
@@ -115,26 +105,19 @@ An intermediate COBOL reporting program that processes customer financial record
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
-### 🧠 Key Concepts
-- Sequential file processing
+### 🧠 Key Concepts & Features
 - Arithmetic operations using `COMPUTE` and `SUBTRACT`
 - Percentage calculations with zero-division protection
-- Numeric-edited formatting for financial data
-- Integration with JCL for file handling
-
-### ⚙️ Features
 - Reads customer data from `CUSTMAST`
-- Calculates YTD change amount and percentage
-- Prevents divide-by-zero errors in calculations
+- Calculates `YTD change amount` and `percentage`
 - Generates formatted multi-column reports
-- Produces overall company totals
 
 ### 🚦 Status
 ✅ Completed
 
 ### 📷 Preview
-![RPT2000 Output](assets/RPT2000.png)
-
+  <img src="assets/RPT2000.png" width="150"/>
+  
 ### 🔗 Repository
 [RPT2000](https://github.com/Clay-Rasmussen/RPT2000)
 
@@ -151,28 +134,19 @@ An advanced COBOL reporting tool that processes customer financial records from 
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
-### 🧠 Key Concepts
-- Sequential file processing
-- Control break logic
-- First-record switch handling
+### 🧠 Key Concepts & Features
+- `First-record` switch handling
 - Running totals and grand totals
-- Financial calculations and percentage changes
-- Structured report formatting
 - Multi-page output pagination
-
-### ⚙️ Features
 - Reads customer financial data from `CUSTMAST`
-- Detects branch changes automatically
-- Prints branch-level subtotal reports
-- Calculates YTD change amount and percentage
-- Generates company-wide grand totals
+- Calculates `YTD change amount` and `percentage`
 - Adds formatted headers, timestamps, and separators
 
 ### 🚦 Status
 ✅ Completed
 
 ### 📷 Preview
-![RPT3000 Output](assets/RPT3000.png)
+  <img src="assets/RPT3000.png" width="150"/>
 
 ### 🔗 Repository
 [RPT3000](https://github.com/Clay-Rasmussen/RPT3000)
@@ -190,27 +164,19 @@ An advanced COBOL reporting system that processes customer sales data and genera
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
-### 🧠 Key Concepts
+### 🧠 Key Concepts & Features
 - Two-level control break processing (branch & sales representative)
-- EVALUATE statement for structured decision-making
+- `EVALUATE` statement for structured decision-making
 - 88-level condition names for readable logic control
-- Sequential file processing
-- Running totals, subtotals, and grand totals
 - Error-handled arithmetic using `COMPUTE`, `ROUNDED`, and `ON SIZE ERROR`
-- Report pagination and formatted output
-
-### ⚙️ Features
-- Processes structured customer sales data
 - Generates nested subtotal reports by branch and sales representative
-- Calculates YTD change amount and percentage
-- Uses EVALUATE to simplify complex logic
 - Produces clean, multi-page formatted reports with headers and spacing
 
 ### 🚦 Status
 ✅ Completed
 
 ### 📷 Preview
-![RPT5000 Output](assets/RPT5000.png)
+  <img src="assets/RPT5000.png" width="150"/>
 
 ### 🔗 Repository
 [RPT5000](https://github.com/Clay-Rasmussen/RPT5000)
@@ -228,27 +194,18 @@ An advanced COBOL program focused on data formatting, table processing, and modu
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
-### 🧠 Key Concepts
-- REDEFINES and edited picture clauses for formatted output
-- Packed decimal (COMP-3) data handling
-- Table processing using OCCURS and INDEXED BY
-- SEARCH statement for table lookups
-- Sequential file processing with EOF control
-- Copybooks (COPYLIB) for modular design
-- Dynamic table loading from input files
-
-### ⚙️ Features
-- Formats numeric data with currency, commas, and special values (e.g., "N/A", "OVRFLW")
-- Loads and processes table data from external files
+### 🧠 Key Concepts & Features
+- `REDEFINES` and edited picture clauses for formatted output
+- Table processing using `OCCURS` and `INDEXED BY`
+- `SEARCH` statement for table lookups
+- Copybooks `(COPYLIB)` for modular design
 - Performs indexed lookups for sales representative information
-- Uses modular copybooks to simplify and reuse data structures
-- Produces structured and readable report output
 
 ### 🚦 Status
 ✅ Completed
 
 ### 📷 Preview
-![RPT6000 Output](assets/RPT6000.png)
+  <img src="assets/RPT6000.png" width="150"/>
 
 ### 🔗 Repository
 [RPT6000](https://github.com/Clay-Rasmussen/RPT6000)
@@ -266,26 +223,18 @@ A COBOL file maintenance program that processes employee master records alongsid
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
-### 🧠 Key Concepts
-- Sequential file processing
-- Balanced-line algorithm for file comparison
-- Multi-file input/output handling
-- Data validation and error handling
-- File status checking
+### 🧠 Key Concepts & Features
+- Multi-file `input/output` and error handling
 - Structured program flow for record maintenance
-
-### ⚙️ Features
 - Processes employee master and transaction files simultaneously
-- Performs add, delete, and update operations
+- Performs `add`, `delete`, and `update` operations
 - Generates updated master file
-- Produces error file for invalid transactions
-- Handles real-world HR record scenarios
 
 ### 🚦 Status
 ✅ Completed
 
 ### 📷 Preview
-![SEQ3000 Output](assets/SEQ3000.png)
+  <img src="assets/SEQ3000.png" width="150"/>
 
 ### 🔗 Repository
 [SEQ3000](https://github.com/Clay-Rasmussen/SEQ3000)
@@ -304,16 +253,11 @@ A Java application that displays real-time weather station data, including tempe
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
-### 🧠 Key Concepts
-- Object-oriented programming (classes and objects)
-- Data representation and display
+### 🧠 Key Concepts & Features
+- `Object-oriented` programming (classes and objects)
 - Event-driven or input-based updates (depending on implementation)
-- Working with pre-built starter code
-
-### ⚙️ Features
-- Displays temperature, humidity, and wind speed
+- Displays `temperature`, `humidity`, and `wind speed`
 - Processes and presents weather data in a user-friendly format
-- Built using structured Java application design
 
 ### 🚦 Status
 ✅ Completed
@@ -334,20 +278,12 @@ A C++ console-based math tutor application that generates random arithmetic prob
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
-### 🧠 Key Concepts
-- Random number generation
-- Conditional logic and loops
-- Input validation
-- Functions and modular design
+### 🧠 Key Concepts & Features
+- `Random` number generation
 - Use of vectors for storing results
-- Enum usage for math operation types
-
-### ⚙️ Features
+- `Enum` usage for math operation types
 - Generates random math problems (addition, subtraction, etc.)
 - Adjusts difficulty level based on performance
-- Tracks user attempts and correctness
-- Provides feedback after each question
-- Displays a summary report at the end
 
 ### 🚦 Status
 ✅ Completed
