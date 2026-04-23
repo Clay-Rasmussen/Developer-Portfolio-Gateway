@@ -75,9 +75,8 @@ A `COBOL` utility billing system that `calculates` and `generates` monthly `bill
 ---
 
 ## RPT2000
-
-### 📌 Summary
-An intermediate `COBOL` reporting program that processes `customer financial records` and `generates` a `formatted Year-To-Date (YTD) Sales Report`. This version introduces comparative analytics by calculating differences between current and previous year sales.
+An intermediate `COBOL` reporting program that processes `customer financial records` and `generates` a `formatted Year-To-Date (YTD) Sales Report`. This version introduces comparative analytics by
+calculating differences between current and previous year sales.
 
 **Key Concepts:** COMPUTE/SUBTRACT | Percent Calculations | File processing | YTD Comparrison
 
@@ -94,145 +93,87 @@ An intermediate `COBOL` reporting program that processes `customer financial rec
 ---
 
 ## RPT3000
+A `COBOL` reporting tool that `processes customer financial records` from a master file and `generates a formatted multi-page Year-To-Date (YTD) Sales Report`. The program includes `automated branch
+break processing`, `customer-level calculations`, and professional `report pagination`.
 
-### 📌 Summary
-An advanced COBOL reporting tool that processes customer financial records from a master file and generates a formatted multi-page Year-To-Date (YTD) Sales Report. The program includes automated branch break processing, customer-level calculations, and professional report pagination.
+**Key Concepts:** First-record switch | CUSTMAST data file | YTD change amount and Percent
 
-### 🧰 Tech Stack
-![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+**Tech Stack:** ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
-### 🧠 Key Concepts & Features
-- `First-record` switch handling
-- Running totals and grand totals
-- Multi-page output pagination
-- Reads customer financial data from `CUSTMAST`
-- Calculates `YTD change amount` and `percentage`
-- Adds formatted headers, timestamps, and separators
-
-### 🚦 Status
 ✅ Completed
+[Repo](https://github.com/Clay-Rasmussen/RPT3000)
 
-### 📷 Preview
-  <img src="assets/RPT3000.png" width="150"/>
-
-### 🔗 Repository
-[RPT3000](https://github.com/Clay-Rasmussen/RPT3000)
+<img src="assets/RPT3000.png" width="150"/>
 
 🔙 [Back to TOC](#-table-of-contents)
 ---
 
 ## RPT5000
+A `COBOL` reporting system that `processes customer sales data` and `generates a multi-level, formatted Year-To-Date (YTD) Sales Report`. This version introduces `two-level control break processing`, enhanced `decision logic using EVALUATE`, and professional `report pagination`.
 
-### 📌 Summary
-An advanced COBOL reporting system that processes customer sales data and generates a multi-level, formatted Year-To-Date (YTD) Sales Report. This version introduces two-level control break processing, enhanced decision logic using EVALUATE, and professional report pagination.
+**Key Concepts:** Two-Level control break | EVALUATE | 88-Level condition names | COMPUTE, ROUNDED, ON SIZE ERROR
 
-### 🧰 Tech Stack
-![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+**Tech Stack:** ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
-### 🧠 Key Concepts & Features
-- Two-level control break processing (branch & sales representative)
-- `EVALUATE` statement for structured decision-making
-- 88-level condition names for readable logic control
-- Error-handled arithmetic using `COMPUTE`, `ROUNDED`, and `ON SIZE ERROR`
-- Generates nested subtotal reports by branch and sales representative
-- Produces clean, multi-page formatted reports with headers and spacing
-
-### 🚦 Status
 ✅ Completed
+[Repo](https://github.com/Clay-Rasmussen/RPT5000)
 
-### 📷 Preview
-  <img src="assets/RPT5000.png" width="150"/>
-
-### 🔗 Repository
-[RPT5000](https://github.com/Clay-Rasmussen/RPT5000)
+<img src="assets/RPT5000.png" width="150"/>
 
 🔙 [Back to TOC](#-table-of-contents)
 ---
 
 ## RPT6000
+An advanced `COBOL` program focused on `data formatting`, `table processing`, and `modular design`. This project introduces `file-driven tables`, `indexed lookups`, and `reusable copybooks` to enhance flexibility, scalability, and report accuracy.
 
-### 📌 Summary
-An advanced COBOL program focused on data formatting, table processing, and modular design. This project integrates file-driven tables, indexed lookups, and reusable copybooks to enhance flexibility, scalability, and report accuracy.
+**Key Concepts:** REDEFINES | Edited Pic Clause | Table Processing with OCCURES and INDEXED BY | COPYLIB
 
-### 🧰 Tech Stack
-![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+**Tech Stack:** ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
-### 🧠 Key Concepts & Features
-- `REDEFINES` and edited picture clauses for formatted output
-- Table processing using `OCCURS` and `INDEXED BY`
-- `SEARCH` statement for table lookups
-- Copybooks `(COPYLIB)` for modular design
-- Performs indexed lookups for sales representative information
-
-### 🚦 Status
 ✅ Completed
+[Repo](https://github.com/Clay-Rasmussen/RPT6000)
 
-### 📷 Preview
-  <img src="assets/RPT6000.png" width="150"/>
-
-### 🔗 Repository
-[RPT6000](https://github.com/Clay-Rasmussen/RPT6000)
+<img src="assets/RPT6000.png" width="150"/>
 
 🔙 [Back to TOC](#-table-of-contents)
 ---
 
 ## SEQ3000
+A `COBOL` file maintenance program that `processes employee master records` alongside a `transaction file` to perform `additions, deletions, and updates`. The program uses a balanced-line algorithm to ensure `accurate record comparison` and `generates` both an `updated master file and an error report`.
 
-### 📌 Summary
-A COBOL file maintenance program that processes employee master records alongside a transaction file to perform additions, deletions, and updates. The program uses a balanced-line algorithm to ensure accurate record comparison and generates both an updated master file and an error report.
+**Key Concepts:** Multi-file i/o | Error Handling | Add, Delete, and Update Operations | Generates Updated Master File
 
-### 🧰 Tech Stack
-![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+**Tech Stack:** ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
-### 🧠 Key Concepts & Features
-- Multi-file `input/output` and error handling
-- Structured program flow for record maintenance
-- Processes employee master and transaction files simultaneously
-- Performs `add`, `delete`, and `update` operations
-- Generates updated master file
-
 ### 🚦 Status
 ✅ Completed
+[Repo](https://github.com/Clay-Rasmussen/SEQ3000)
 
-### 📷 Preview
-  <img src="assets/SEQ3000.png" width="150"/>
-
-### 🔗 Repository
-[SEQ3000](https://github.com/Clay-Rasmussen/SEQ3000)
+<img src="assets/SEQ3000.png" width="150"/>
 
 🔙 [Back to TOC](#-table-of-contents)
 ---
 
 ## Weather Station
+A `Java` application that displays `real-time weather station data`, including `temperature, humidity, and wind speed`. This project demonstrates `object-oriented programming` concepts and `UI/data handling` using instructor-provided starter code.
 
-### 📌 Summary
-A Java application that displays real-time weather station data, including temperature, humidity, and wind speed. This project demonstrates object-oriented programming concepts and UI/data handling using instructor-provided starter code.
+**Key Concepts:** Object-Oriented Programming | Temperature | Humidity | Wind Speed | User-Friendly Format
 
-### 🧰 Tech Stack
-![Amazon Corretto](https://img.shields.io/badge/Amazon_Corretto-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**Tech Stack:**![Amazon Corretto](https://img.shields.io/badge/Amazon_Corretto-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Java Version](https://img.shields.io/badge/Java-17-blue)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
-### 🧠 Key Concepts & Features
-- `Object-oriented` programming (classes and objects)
-- Event-driven or input-based updates (depending on implementation)
-- Displays `temperature`, `humidity`, and `wind speed`
-- Processes and presents weather data in a user-friendly format
-
-### 🚦 Status
 ✅ Completed
-
-### 🔗 Repository
-[Weather Station](https://github.com/Clay-Rasmussen/Semester2JavaFinal)
+[Repo](https://github.com/Clay-Rasmussen/Semester2JavaFinal)
 
 🔙 [Back to TOC](#-table-of-contents)
 ---
@@ -240,25 +181,16 @@ A Java application that displays real-time weather station data, including tempe
 ## MathTutorV6
 
 ### 📌 Summary
-A C++ console-based math tutor application that generates random arithmetic problems and adjusts difficulty based on user performance. The program tracks attempts, provides feedback, and summarizes results to enhance learning.
+A `C++` console-based `math tutor application` that `generates random arithmetic problems` and `adjusts difficulty` based on user performance. The program tracks `attempts, provides feedback, and summarizes results` to enhance learning.
 
-### 🧰 Tech Stack
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Key Concepts:** Random number generation | Vectors for storage | Enum's for math type | Random math Problems | Adjustable difficulty
+
+**Tech Stack:** ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
-### 🧠 Key Concepts & Features
-- `Random` number generation
-- Use of vectors for storing results
-- `Enum` usage for math operation types
-- Generates random math problems (addition, subtraction, etc.)
-- Adjusts difficulty level based on performance
-
-### 🚦 Status
 ✅ Completed
-
-### 🔗 Repository
-[MathTutorV6](https://github.com/Clay-Rasmussen/MathTutorV6)
+[Repo](https://github.com/Clay-Rasmussen/MathTutorV6)
 
 🔙 [Back to TOC](#-table-of-contents)
 ---
