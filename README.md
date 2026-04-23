@@ -26,7 +26,7 @@ This repository serves as a central directory for navigating my coursework and p
 
 | Project Summary | Tech | Category | Description | Repo |
 |---------|------|----------|-------------|------|
-| [CALC2000](#calc2000) | COBOL / JCL | Intro to Enterprise Computing | Calculate Future Value | [COBOLCAL2000](https://github.com/Clay-Rasmussen/COBOLCALC2000) |
+| [CALC2000](#calc2000) | COBOL / JCL | Intro to Enterprise Computing | Calculate Future Value | [COBOLCALC2000](https://github.com/Clay-Rasmussen/COBOLCALC2000) |
 | [UTIL2000](#util2000) | COBOL / JCL | Intro to Enterprise Computing | Formatted Year-To-Date (YTD) Sales Report | [UTIL2000](https://github.com/Clay-Rasmussen/CobolUtil2000)|
 | [RPT2000](#rpt2000) | COBOL / JCL | Intro to Enterprise Computing | description... | [RPT2000](https://github.com/Clay-Rasmussen/RPT2000)|
 | [RPT3000](#rpt3000) | COBOL / JCL | Intro to Enterprise Computing | description... | [RPT3000](https://github.com/Clay-Rasmussen/RPT3000)|
