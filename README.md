@@ -26,15 +26,15 @@ This repository serves as a central directory for navigating my coursework and p
 
 | Project Summary | Tech | Category | Description | Repo |
 |---------|------|----------|-------------|------|
-| [CALC2000](#calc2000) | COBOL / JCL | Intro to Enterprise Computing | Calculate Future Value | [COBOLCALC2000](https://github.com/Clay-Rasmussen/COBOLCALC2000) |
-| [UTIL2000](#util2000) | COBOL / JCL | Intro to Enterprise Computing | Formatted Year-To-Date (YTD) Sales Report | [UTIL2000](https://github.com/Clay-Rasmussen/CobolUtil2000)|
-| [RPT2000](#rpt2000) | COBOL / JCL | Intro to Enterprise Computing | description... | [RPT2000](https://github.com/Clay-Rasmussen/RPT2000)|
-| [RPT3000](#rpt3000) | COBOL / JCL | Intro to Enterprise Computing | description... | [RPT3000](https://github.com/Clay-Rasmussen/RPT3000)|
-| [RPT5000](#rpt5000) | COBOL / JCL | Intro to Enterprise Computing | description... | [RPT5000](https://github.com/Clay-Rasmussen/RPT5000)|
-| [RPT6000](#rpt6000) | COBOL / JCL | Intro to Enterprise Computing | description... | [RPT6000](https://github.com/Clay-Rasmussen/RPT6000)|
-| [SEQ3000](#seq3000) | COBOL / JCL | Intro to Enterprise Computing | description... | [SEQ3000](https://github.com/Clay-Rasmussen/SEQ3000)|
-| [Weather Station](#weather-station) | Java | Programming Fundamentals II | description... | [Weather Station](https://github.com/Clay-Rasmussen/Semester2JavaFinal) |
-| [MathTutorV6](#mathtutorv6) | C++ | Programming Fundamentals I | description... | [MathTutorV6](https://github.com/ClayRasmussen/MathTutorV6) |
+| [CALC2000](#calc2000) | COBOL / JCL | Intro to Enterprise Computing | Calculates future investment values using compound growth and repeated doubling logic | [COBOLCALC2000](https://github.com/Clay-Rasmussen/COBOLCALC2000) |
+| [UTIL2000](#util2000) | COBOL / JCL | Intro to Enterprise Computing | Generates formatted monthly utility bills based on customer kWh usage | [UTIL2000](https://github.com/Clay-Rasmussen/CobolUtil2000)|
+| [RPT2000](#rpt2000) | COBOL / JCL | Intro to Enterprise Computing | Produces a YTD sales report with year-over-year comparison and percent change calculations | [RPT2000](https://github.com/Clay-Rasmussen/RPT2000)|
+| [RPT3000](#rpt3000) | COBOL / JCL | Intro to Enterprise Computing | Creates multi-page YTD sales reports with branch-level control breaks and pagination | [RPT3000](https://github.com/Clay-Rasmussen/RPT3000)|
+| [RPT5000](#rpt5000) | COBOL / JCL | Intro to Enterprise Computing | Advanced reporting system with two-level control breaks and structured decision logic | [RPT5000](https://github.com/Clay-Rasmussen/RPT5000)|
+| [RPT6000](#rpt6000) | COBOL / JCL | Intro to Enterprise Computing | Implements table-driven processing with indexed lookups and modular copybooks | [RPT6000](https://github.com/Clay-Rasmussen/RPT6000)|
+| [SEQ3000](#seq3000) | COBOL / JCL | Intro to Enterprise Computing | Maintains employee records by processing transactions for add, update, and delete operations | [SEQ3000](https://github.com/Clay-Rasmussen/SEQ3000)|
+| [Weather Station](#weather-station) | Java | Programming Fundamentals II | Displays real-time weather data using object-oriented design and user-friendly output | [Weather Station](https://github.com/Clay-Rasmussen/Semester2JavaFinal) |
+| [MathTutorV6](#mathtutorv6) | C++ | Programming Fundamentals I | Interactive math tutor that adapts difficulty and tracks user performance | [MathTutorV6](https://github.com/ClayRasmussen/MathTutorV6) |
 
 ---
 
