@@ -1,14 +1,14 @@
 # Developer Portfolio Gateway
+**Author:** Clay Rasmussen  
+**Course:** CIS352 – Intro to Enterprise Computing  
 
-Author: Clay Rasmussen  
-Course: CIS352 – Intro to Enterprise Computing  
 ---
 
 ## 👋 About Me
-
-Welcome to my GitHub portfolio repository!  
+**Welcome to my GitHub portfolio repository!**
 I am currently studying Computer Information Systems at Wayne State College.  
 This repository serves as a central directory for navigating my coursework and projects.
+
 ---
 
 ## 📸 Profile
@@ -24,17 +24,33 @@ This repository serves as a central directory for navigating my coursework and p
 
 ## 📚 Table of Contents
 
-| Project | Tech | Category |
-|--------|------|---------|
-| [CALC2000](#calc2000) | COBOL / JCL | Intro to Enterprise Computing |
-| [UTIL2000](#util2000) | COBOL / JCL | Intro to Enterprise Computing |
-| [RPT2000](#rpt2000) | COBOL / JCL | Intro to Enterprise Computing |
-| [RPT3000](#rpt3000) | COBOL / JCL | Intro to Enterprise Computing |
-| [RPT5000](#rpt5000) | COBOL / JCL | Intro to Enterprise Computing |
-| [RPT6000](#rpt6000) | COBOL / JCL | Intro to Enterprise Computing |
-| [SEQ3000](#seq3000) | COBOL / JCL | Intro to Enterprise Computing |
-| [Weather Station](#weather-station) | Java | Programming Fundamentals II |
-| [MathTutorV6](#mathtutorv6) | C++ | Programming Fundamentals I |
+| Project | Tech | Category | Description |
+|---------|------|----------|-------------|
+| [CALC2000](#calc2000) | COBOL / JCL | Intro to Enterprise Computing | Calculate Future Value |
+| [UTIL2000](#util2000) | COBOL / JCL | Intro to Enterprise Computing | Formatted Year-To-Date (YTD) Sales Report |
+| [RPT2000](#rpt2000) | COBOL / JCL | Intro to Enterprise Computing | description... |
+| [RPT3000](#rpt3000) | COBOL / JCL | Intro to Enterprise Computing | description... |
+| [RPT5000](#rpt5000) | COBOL / JCL | Intro to Enterprise Computing | description... |
+| [RPT6000](#rpt6000) | COBOL / JCL | Intro to Enterprise Computing | description... |
+| [SEQ3000](#seq3000) | COBOL / JCL | Intro to Enterprise Computing | description... |
+| [Weather Station](#weather-station) | Java | Programming Fundamentals II | description... |
+| [MathTutorV6](#mathtutorv6) | C++ | Programming Fundamentals I | description... |
+
+---
+
+## CALC2000
+A COBOL batch program that calculates future investment values and demonstrates repeated value doubling.
+
+**Key Concepts:** Arithmetic ops  |  Data Division handling  |  Output formatting  |  Future value calc  |  Repeated doubling
+
+**Tech Stack:** ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue?style=for-the-badge&logo=COBOL) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
+
+✅ Completed 
+[Repo](https://github.com/Clay-Rasmussen/COBOLCALC2000)
+
+<img src="assets/CALC2000.png" width="150"/> 
+
+🔙 [Back to TOC](#-table-of-contents)
 
 ---
 
