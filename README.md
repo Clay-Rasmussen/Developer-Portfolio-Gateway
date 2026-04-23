@@ -27,14 +27,14 @@ This repository serves as a central directory for navigating my coursework and p
 | Project Summary | Tech | Category | Description | Repo |
 |---------|------|----------|-------------|------|
 | [CALC2000](#calc2000) | COBOL / JCL | Intro to Enterprise Computing | Calculate Future Value | [COBOLCAL2000](https://github.com/Clay-Rasmussen/COBOLCALC2000) |
-| [UTIL2000](#util2000) | COBOL / JCL | Intro to Enterprise Computing | Formatted Year-To-Date (YTD) Sales Report | [Repo] |
-| [RPT2000](#rpt2000) | COBOL / JCL | Intro to Enterprise Computing | description... | [Repo] |
-| [RPT3000](#rpt3000) | COBOL / JCL | Intro to Enterprise Computing | description... | [Repo] |
-| [RPT5000](#rpt5000) | COBOL / JCL | Intro to Enterprise Computing | description... | [Repo] |
-| [RPT6000](#rpt6000) | COBOL / JCL | Intro to Enterprise Computing | description... | [Repo] |
-| [SEQ3000](#seq3000) | COBOL / JCL | Intro to Enterprise Computing | description... | [Repo] |
-| [Weather Station](#weather-station) | Java | Programming Fundamentals II | description... | [Repo] |
-| [MathTutorV6](#mathtutorv6) | C++ | Programming Fundamentals I | description... | [Repo] |
+| [UTIL2000](#util2000) | COBOL / JCL | Intro to Enterprise Computing | Formatted Year-To-Date (YTD) Sales Report | [UTIL2000](https://github.com/Clay-Rasmussen/CobolUtil2000)|
+| [RPT2000](#rpt2000) | COBOL / JCL | Intro to Enterprise Computing | description... | [RPT2000](https://github.com/Clay-Rasmussen/RPT2000)|
+| [RPT3000](#rpt3000) | COBOL / JCL | Intro to Enterprise Computing | description... | [RPT3000](https://github.com/Clay-Rasmussen/RPT3000)|
+| [RPT5000](#rpt5000) | COBOL / JCL | Intro to Enterprise Computing | description... | [RPT5000](https://github.com/Clay-Rasmussen/RPT5000)|
+| [RPT6000](#rpt6000) | COBOL / JCL | Intro to Enterprise Computing | description... | [RPT6000](https://github.com/Clay-Rasmussen/RPT6000)|
+| [SEQ3000](#seq3000) | COBOL / JCL | Intro to Enterprise Computing | description... | [SEQ3000](https://github.com/Clay-Rasmussen/SEQ3000)|
+| [Weather Station](#weather-station) | Java | Programming Fundamentals II | description... | [Weather Station](https://github.com/Clay-Rasmussen/Semester2JavaFinal) |
+| [MathTutorV6](#mathtutorv6) | C++ | Programming Fundamentals I | description... | [MathTutorV6](https://github.com/Clay-Rasmussen/MathTutorV6) |
 
 ---
 
