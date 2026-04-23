@@ -77,28 +77,18 @@ A `COBOL` utility billing system that `calculates` and `generates` monthly `bill
 ## RPT2000
 
 ### 📌 Summary
-An intermediate COBOL reporting program that processes customer financial records and generates a formatted Year-To-Date (YTD) Sales Report. This version introduces comparative analytics by calculating differences between current and previous year sales.
+An intermediate `COBOL` reporting program that processes `customer financial records` and `generates` a `formatted Year-To-Date (YTD) Sales Report`. This version introduces comparative analytics by calculating differences between current and previous year sales.
 
-### 🧰 Tech Stack
-![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+**Key Concepts:** COMPUTE/SUBTRACT | Percent Calculations | File processing | YTD Comparrison
+
+**Tech Stack:** ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
-### 🧠 Key Concepts & Features
-- Arithmetic operations using `COMPUTE` and `SUBTRACT`
-- Percentage calculations with zero-division protection
-- Reads customer data from `CUSTMAST`
-- Calculates `YTD change amount` and `percentage`
-- Generates formatted multi-column reports
-
-### 🚦 Status
 ✅ Completed
+[Repo](https://github.com/Clay-Rasmussen/RPT2000)
 
-### 📷 Preview
-  <img src="assets/RPT2000.png" width="150"/>
-  
-### 🔗 Repository
-[RPT2000](https://github.com/Clay-Rasmussen/RPT2000)
+<img src="assets/RPT2000.png" width="150"/>
 
 🔙 [Back to TOC](#-table-of-contents)
 ---
