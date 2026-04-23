@@ -34,16 +34,18 @@ This repository serves as a central directory for navigating my coursework and p
 | [RPT6000](#rpt6000) | COBOL / JCL | Intro to Enterprise Computing | description... | [RPT6000](https://github.com/Clay-Rasmussen/RPT6000)|
 | [SEQ3000](#seq3000) | COBOL / JCL | Intro to Enterprise Computing | description... | [SEQ3000](https://github.com/Clay-Rasmussen/SEQ3000)|
 | [Weather Station](#weather-station) | Java | Programming Fundamentals II | description... | [Weather Station](https://github.com/Clay-Rasmussen/Semester2JavaFinal) |
-| [MathTutorV6](#mathtutorv6) | C++ | Programming Fundamentals I | description... | [MathTutorV6](https://github.com/Clay-Rasmussen/MathTutorV6) |
+| [MathTutorV6](#mathtutorv6) | C++ | Programming Fundamentals I | description... | [MathTutorV6](https://github.com/ClayRasmussen/MathTutorV6) |
 
 ---
 
 ## CALC2000
-A COBOL batch program that calculates future investment values and demonstrates repeated value doubling.
+A `COBOL` batch program that calculates `future investment values` and demonstrates `repeated value doubling`.
 
 **Key Concepts:** Arithmetic ops  |  Data Division handling  |  Output formatting  |  Future value calc  |  Repeated doubling
 
-**Tech Stack:** ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue?style=for-the-badge&logo=COBOL) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
+**Tech Stack:** ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ✅ Completed 
 [Repo](https://github.com/Clay-Rasmussen/COBOLCALC2000)
@@ -54,63 +56,22 @@ A COBOL batch program that calculates future investment values and demonstrates 
 
 ---
 
-## CALC2000
-
-### 📌 Summary
-A COBOL batch program that calculates future investment values and demonstrates 
-repeated value doubling through structured processing.
-
-### 🧰 Tech Stack
-![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
-
-### 🧠 Key Concepts & Features
-- Arithmetic operations in COBOL
-- `Data handling` in the `Data Division`
-- Output formatting for financial results
-- Calculates `future value` of an investment
-- Demonstrates `repeated doubling` of values
-
-### 🚦 Status
-✅ Completed
-
-### 📷 Preview
-  <img src="assets/CALC2000.png" width="150"/>
-
-### 🔗 Repository
-[CALC2000](https://github.com/Clay-Rasmussen/COBOLCALC2000)
-
-🔙 [Back to TOC](#-table-of-contents)
----
-
 ## UTIL2000
+A `COBOL` utility billing system that `calculates` and `generates` monthly `bills` for `multiple customers` based on their `kilowatt-hour (kWh) usage`.
 
-### 📌 Summary
-A COBOL utility billing system that calculates and generates monthly bills for multiple customers based on their kilowatt-hour (kWh) usage.
+**Key Concepts:** Arithmetic calculations | Conditional logic | kWh Consumption | Formatted Output | Multi-record Processing
 
-### 🧰 Tech Stack
-![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+**Tech Stack:** ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
-### 🧠 Key Concepts & Features
-- Arithmetic calculations for billing
-- `Conditional` logic for rate calculations
-- Calculates monthly billing based on `kWh consumption`
-- Generates `formatted` billing output
-- Handles `multiple customer records` in a single run
-
-### 🚦 Status
 ✅ Completed
+[Repo](https://github.com/Clay-Rasmussen/CobolUtil2000)
 
-### 📷 Preview
-  <img src="assets/UTIL2000.png" width="150"/>
-
-### 🔗 Repository
-[UTIL2000](https://github.com/Clay-Rasmussen/CobolUtil2000)
+<img src="assets/UTIL2000.png" width="150"/>
 
 🔙 [Back to TOC](#-table-of-contents)
+
 ---
 
 ## RPT2000
