@@ -1,6 +1,6 @@
 # Developer Portfolio Gateway
 **Author:** Clay Rasmussen  
-**Course:** CIS352 – Intro to Enterprise Computing  
+**Course:** CIS352 – Intro to Enterprise Computing
 
 ---
 
@@ -48,7 +48,7 @@ A `COBOL` batch program that calculates `future investment values` and demonstra
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ✅ Completed 
-[Repo](https://github.com/Clay-Rasmussen/COBOLCALC2000)
+[CALC2000 Repo](https://github.com/Clay-Rasmussen/COBOLCALC2000)
 
 <img src="assets/CALC2000.png" width="150"/> 
 
@@ -66,7 +66,7 @@ A `COBOL` utility billing system that `calculates` and `generates` monthly `bill
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ✅ Completed
-[Repo](https://github.com/Clay-Rasmussen/CobolUtil2000)
+[UTIL2000 Repo](https://github.com/Clay-Rasmussen/CobolUtil2000)
 
 <img src="assets/UTIL2000.png" width="150"/>
 
@@ -85,7 +85,7 @@ calculating differences between current and previous year sales.
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ✅ Completed
-[Repo](https://github.com/Clay-Rasmussen/RPT2000)
+[RPT2000 Repo](https://github.com/Clay-Rasmussen/RPT2000)
 
 <img src="assets/RPT2000.png" width="150"/>
 
@@ -103,7 +103,7 @@ break processing`, `customer-level calculations`, and professional `report pagin
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ✅ Completed
-[Repo](https://github.com/Clay-Rasmussen/RPT3000)
+[RPT3000 Repo](https://github.com/Clay-Rasmussen/RPT3000)
 
 <img src="assets/RPT3000.png" width="150"/>
 
@@ -120,7 +120,7 @@ A `COBOL` reporting system that `processes customer sales data` and `generates a
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ✅ Completed
-[Repo](https://github.com/Clay-Rasmussen/RPT5000)
+[RPT5000 Repo](https://github.com/Clay-Rasmussen/RPT5000)
 
 <img src="assets/RPT5000.png" width="150"/>
 
@@ -137,7 +137,7 @@ An advanced `COBOL` program focused on `data formatting`, `table processing`, an
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ✅ Completed
-[Repo](https://github.com/Clay-Rasmussen/RPT6000)
+[RPT6000 Repo](https://github.com/Clay-Rasmussen/RPT6000)
 
 <img src="assets/RPT6000.png" width="150"/>
 
@@ -155,7 +155,7 @@ A `COBOL` file maintenance program that `processes employee master records` alon
 
 ### 🚦 Status
 ⚠️ In Progress
-[Repo](https://github.com/Clay-Rasmussen/SEQ3000)
+[SEQ3000 Repo](https://github.com/Clay-Rasmussen/SEQ3000)
 
 <img src="assets/SEQ3000.png" width="150"/>
 
@@ -173,7 +173,7 @@ A `Java` application that displays `real-time weather station data`, including `
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ✅ Completed
-[Repo](https://github.com/Clay-Rasmussen/Semester2JavaFinal)
+[WeatherStation Repo](https://github.com/Clay-Rasmussen/Semester2JavaFinal)
 
 🔙 [Back to TOC](#-table-of-contents)
 ---
@@ -190,7 +190,7 @@ A `C++` console-based `math tutor application` that `generates random arithmetic
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ✅ Completed
-[Repo](https://github.com/Clay-Rasmussen/MathTutorV6)
+[MathTutor Repo](https://github.com/Clay-Rasmussen/MathTutorV6)
 
 🔙 [Back to TOC](#-table-of-contents)
 ---
