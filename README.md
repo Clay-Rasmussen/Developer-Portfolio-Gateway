@@ -1,9 +1,11 @@
 # Developer Portfolio Gateway
+
 Author: Clay Rasmussen  
 Course: CIS352 – Intro to Enterprise Computing  
 ---
 
 ## 👋 About Me
+
 Welcome to my GitHub portfolio repository!  
 I am currently studying Computer Information Systems at Wayne State College.  
 This repository serves as a central directory for navigating my coursework and projects.
