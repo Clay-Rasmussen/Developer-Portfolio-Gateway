@@ -154,7 +154,7 @@ A `COBOL` file maintenance program that `processes employee master records` alon
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ### 🚦 Status
-⚠️ In Progress
+✅ Completed
 [SEQ3000 Repo](https://github.com/Clay-Rasmussen/SEQ3000)
 
 <img src="assets/SEQ3000.png" width="150"/>
