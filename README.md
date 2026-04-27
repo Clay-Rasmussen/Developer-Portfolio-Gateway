@@ -157,7 +157,14 @@ A `COBOL` file maintenance program that `processes employee master records` alon
 ✅ Completed
 [SEQ3000 Repo](https://github.com/Clay-Rasmussen/SEQ3000)
 
-<img src="assets/SEQ3000.png" width="150"/>
+**Error Catching File**
+
+<img src="assets/ERRTRAN3RunningOutput.png" width="350"/>
+
+**Employee File**
+
+<img src="assets/NEWEMPRunningOutput.png" width="350"/> 
+
 
 🔙 [Back to TOC](#-table-of-contents)
 ---
