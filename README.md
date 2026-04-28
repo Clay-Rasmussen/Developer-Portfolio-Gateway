@@ -34,7 +34,7 @@ This repository serves as a central directory for navigating my coursework and p
 | [RPT6000](#rpt6000) | COBOL / JCL | Intro to Enterprise Computing | Implements table-driven processing with indexed lookups and modular copybooks | [RPT6000](https://github.com/Clay-Rasmussen/RPT6000)|
 | [SEQ3000](#seq3000) | COBOL / JCL | Intro to Enterprise Computing | Maintains employee records by processing transactions for add, update, and delete operations | [SEQ3000](https://github.com/Clay-Rasmussen/SEQ3000)|
 | [Weather Station](#weather-station) | Java | Programming Fundamentals II | Displays real-time weather data using object-oriented design and user-friendly output | [Weather Station](https://github.com/Clay-Rasmussen/Semester2JavaFinal) |
-| [MathTutorV6](#mathtutorv6) | C++ | Programming Fundamentals I | Interactive math tutor that adapts difficulty and tracks user performance | [MathTutorV6](https://github.com/ClayRasmussen/MathTutorV6) |
+| [MathTutorV6](#mathtutorv6) | C++ | Programming Fundamentals I | Interactive math tutor that adapts difficulty and tracks user performance | [MathTutorV6](https://github.com/Clay-Rasmussen/MathTutorV6) |
 
 ---
 
