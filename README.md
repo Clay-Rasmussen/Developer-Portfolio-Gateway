@@ -1,12 +1,12 @@
 # Developer Portfolio Gateway
 **Author:** Clay Rasmussen  
-**Course:** CIS352 – Intro to Enterprise Computing
 
 ---
 
 ## 👋 About Me
 **Welcome to my GitHub portfolio repository!**
 I am currently studying Computer Information Systems at Wayne State College.  
+
 This repository serves as a central directory for navigating my coursework and projects.
 
 ---
@@ -26,6 +26,7 @@ This repository serves as a central directory for navigating my coursework and p
 
 | Project Summary | Tech | Category | Description | Repo |
 |---------|------|----------|-------------|------|
+| [DB1](#db1) | SQL | Intro to Database | First Database project description | [DB1](https://github.com/Clay-Rasmussen/COBOLCALC2000) |
 | [CALC2000](#calc2000) | COBOL / JCL | Intro to Enterprise Computing | Calculates future investment values using compound growth and repeated doubling logic | [COBOLCALC2000](https://github.com/Clay-Rasmussen/COBOLCALC2000) |
 | [UTIL2000](#util2000) | COBOL / JCL | Intro to Enterprise Computing | Generates formatted monthly utility bills based on customer kWh usage | [UTIL2000](https://github.com/Clay-Rasmussen/CobolUtil2000)|
 | [RPT2000](#rpt2000) | COBOL / JCL | Intro to Enterprise Computing | Produces a YTD sales report with year-over-year comparison and percent change calculations | [RPT2000](https://github.com/Clay-Rasmussen/RPT2000)|
@@ -36,6 +37,21 @@ This repository serves as a central directory for navigating my coursework and p
 | [Weather Station](#weather-station) | Java | Programming Fundamentals II | Displays real-time weather data using object-oriented design and user-friendly output | [Weather Station](https://github.com/Clay-Rasmussen/Semester2JavaFinal) |
 | [MathTutorV6](#mathtutorv6) | C++ | Programming Fundamentals I | Interactive math tutor that adapts difficulty and tracks user performance | [MathTutorV6](https://github.com/Clay-Rasmussen/MathTutorV6) |
 
+---
+
+## DB1
+First Database Project description
+
+**Key Concepts:** of project to be added
+
+**Tech Stack:** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+✅ Completed 
+[DB1 Repo](https://github.com/Clay-Rasmussen/COBOLCALC2000)
+
+*add image
+
+🔙 [Back to TOC](#-table-of-contents)
 ---
 
 ## CALC2000
